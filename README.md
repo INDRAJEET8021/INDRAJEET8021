@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @INDRAJEET8021
 - 👀 I’m interested in WEB DEVLOPMENT
-- 🌱 I’m currently learning C,C++
+- 🌱 C,C++,HTML,CSS Skilled.DSA Learning.
 - 💞️ I’m looking to collaborate on SOFTWARE COMPANY
 - 📫 How to reach me CONTACT INFO-6207436721
 
