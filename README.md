@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Rai</h1>
-<h3 align="center">Full Stack Web Developer. 1.5+ Year of Experience at FrontEnd & Backend Developement using React js/ and Node js/ and Express js</h3>
+<h3 align="center">Full Stack Web Developer. 1 Year of Experience (Internship and Fulltime) at FrontEnd & Backend Developement using React js/ and Node js/ and Express js</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 
-- 🔭 I’m currently working on **AI Based Learning Application and Image Generation Web Application**
+- 🔭 I’m currently working in **AI-based Learning Application for Automation and Gemini Response.**
 
 - 🌱 I’m currently learning **Spring Boot and WebSocket**
 
